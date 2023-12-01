@@ -1,0 +1,8 @@
+<!-- res/drawable/edittext_background.xml -->
+<shape xmlns:android="http://schemas.android.com/apk/res/android">
+    <solid android:color="#FFFFFF" /> <!-- Cambia el color de fondo del recuadro -->
+    <corners android:radius="8dp" /> <!-- Ajusta el radio para lograr el efecto de recuadro -->
+    <stroke
+        android:width="1dp"
+        android:color="#000000" /> <!-- Cambia el color del borde del recuadro si lo deseas -->
+</shape>

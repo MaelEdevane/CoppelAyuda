@@ -1,0 +1,5 @@
+<!-- res/drawable/rounded_button.xml -->
+<shape xmlns:android="http://schemas.android.com/apk/res/android">
+    <solid android:color="#1976D2" /> <!-- Cambia el color de fondo a azul oscuro -->
+    <corners android:radius="20dp" /> <!-- Ajusta el radio para lograr el efecto de redondeo -->
+</shape>

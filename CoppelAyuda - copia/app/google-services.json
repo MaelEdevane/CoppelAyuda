@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "448966282087",
+    "project_id": "coppel-ayuda",
+    "storage_bucket": "coppel-ayuda.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:448966282087:android:3bcc5534629c52552ffdc2",
+        "android_client_info": {
+          "package_name": "com.example.coppelayuda"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "448966282087-gpeh6pgtkebrdflvmobpi21t9gvl199l.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.coppelayuda",
+            "certificate_hash": "c0e64b70fa8947a9ce008817aeea8debd747cdda"
+          }
+        },
+        {
+          "client_id": "448966282087-g6i0e4trcqeaqq8175o3pkpn9i86f573.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAoaiseTvCn1KFebl14XYDkjMkoaYz-oz8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "448966282087-g6i0e4trcqeaqq8175o3pkpn9i86f573.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
